@@ -19,13 +19,13 @@ This project uses OpenCV and Python to transform real images into cartoon-like a
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/cartoonification-of-an-image.git
+    git clone https://github.com/VINEETJAINV/Cartoonification/tree/main
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd cartoonification-of-an-image
+    cd Cartoonification
     ```
 
 3. Install the required packages:
